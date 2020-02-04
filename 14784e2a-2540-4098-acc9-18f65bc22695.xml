@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Entity type="Operation">
-  <Header Deleted="false" DeployDirty="false" Deployed="true" HasMoved="false" ID="14784e2a-2540-4098-acc9-18f65bc22695" Name="New Operation - V1.1">
+  <Header Deleted="false" DeployDirty="false" Deployed="true" HasMoved="false" ID="14784e2a-2540-4098-acc9-18f65bc22695" Name="New Operation">
     <konga.string name="Description"/>
   </Header>
   <Properties>
